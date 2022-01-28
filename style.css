@@ -1,0 +1,103 @@
+    @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&family=Roboto&display=swap');
+    body {
+        background-image: url(/image/fond.png);
+        color: darkslategray;
+        margin: 0px;
+        font-size: large;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    main section ul li {
+        font-weight: 500;
+    }
+    
+    nav ul li a {
+        color: #314723;
+        font-family: oswald;
+        font-weight: bolder;
+    }
+    
+    main {
+        padding: 20px;
+    }
+    
+    p {
+        font-weight: 500;
+    }
+    
+    .contenu {
+        width: 850px;
+        height: 900px;
+        margin: auto;
+        background-color: #fff;
+    }
+    
+    .logo {
+        float: left;
+    }
+    
+    nav {
+        background-color: #b8cb21;
+        font-size: 1.3em;
+        height: 155px;
+        width: 890px;
+        margin: auto;
+    }
+    
+    h2 {
+        color: #b8cb21;
+        font-weight: bolder;
+        margin-top: 30px;
+        font-family: oswald;
+    }
+    
+    nav ul {
+        float: right;
+        padding: 20px;
+    }
+    
+    nav ul li {
+        display: inline;
+        padding-right: 20px
+    }
+    
+    section {
+        clear: both;
+    }
+    
+    section img {
+        float: left;
+        margin-right: 10px;
+    }
+    
+    .Z {
+        width: 250px;
+        height: 100px;
+    }
+    
+    button {
+        background-color: #b8cb21;
+        outline: none;
+        border: none;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        padding-right: 25px;
+        padding-left: 25px;
+        font-family: Arial, Helvetica, sans-serif;
+        color: #fff;
+        display: block;
+        float: right;
+        font-weight: 700;
+    }
+    
+    footer {
+        text-align: center;
+        font-size: 1em;
+        margin-top: 60px;
+        line-height: 0px;
+    }
+    
+    .B {
+        width: 70px;
+        height: 70px;
+    }
